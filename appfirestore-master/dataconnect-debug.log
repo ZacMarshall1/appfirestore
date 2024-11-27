@@ -1,0 +1,13 @@
+I1127 10:50:17.598668    3272 load.go:37] Reloading schema and connectors...
+I1127 10:50:17.616377    3272 control.go:45] [engine.Service /emulator/AppFirestore34353470 cbbf] UpdateSchema(): done sources: schema\schema.gql [1384B] 
+I1127 10:50:17.622142    3272 control.go:73] [engine.Service /emulator/AppFirestore34353470 cbbf] UpdateConnector(default): done sources: connector\mutations.gql [1163B] connector\queries.gql [1855B] 
+I1127 10:50:17.630746    3272 codegen.go:82] [connector "default" kotlinSdk] Generating sources into "C:\\_WS\\tempo\\appfirestore-master\\app\\src\\main\\java\\connectors\\default"
+I1127 10:50:17.630746    3272 collector.go:107] schema extensions wrote into "C:\\_WS\\tempo\\appfirestore-master\\dataconnect\\.dataconnect\\schema"
+Generated sources: prelude.gql [65151B] 
+I1127 10:50:17.640801    3272 collector.go:107] connector "default" kotlinSdk wrote into "C:\\_WS\\tempo\\appfirestore-master\\app\\src\\main\\java\\connectors\\default"
+Generated sources: DefaultConnectorEnums.kt [797B] DefaultConnector.kt [8315B] DefaultConnectorKeys.kt [799B] 
+I1127 10:50:17.640801    3272 load.go:115] Finished reloading
+I1127 10:50:17.640801    3272 dev.go:95] Listening on address (HTTP + gRPC): 127.0.0.1:9399
+I1127 10:50:17.640801    3272 dev.go:95] Listening on address (HTTP + gRPC): [::1]:9399
+I1127 10:50:20.936823    3272 control.go:45] [engine.Service /emulator/AppFirestore34353470 cf1a] UpdateSchema(): done sources: schema\schema.gql [1384B] 
+I1127 10:50:20.936823    3272 control.go:73] [engine.Service /emulator/AppFirestore34353470 cf1a] UpdateConnector(default): done sources: connector\mutations.gql [1163B] connector\queries.gql [1855B] 

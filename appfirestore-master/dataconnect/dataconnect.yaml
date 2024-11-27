@@ -1,0 +1,12 @@
+specVersion: "v1beta"
+serviceId: "AppFirestore34353470"
+location: "us-central1"
+schema:
+  source: "./schema"
+  datasource:
+    postgresql:
+      database: "fdcdb"
+      cloudSql:
+        instanceId: "AppFirestore34353470-fdc"
+      # schemaValidation: "COMPATIBLE"
+connectorDirs: ["./connector"]

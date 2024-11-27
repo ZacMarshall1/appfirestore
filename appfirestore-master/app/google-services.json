@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "248515523573",
+    "project_id": "projetomuitophoda",
+    "storage_bucket": "projetomuitophoda.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248515523573:android:b711c73e6a429246ace6bc",
+        "android_client_info": {
+          "package_name": "br.edu.up.rgm34353470"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8nLPVohcM-_RsVKvK0DYvt9K164ZeHeQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
